@@ -105,5 +105,5 @@ TOTAL                                                                           
 ## Documentation
 documentation.html can be found in the base folder<br>
 
-![image](https://user-images.githubusercontent.com/40683252/207242811-f7ebb5b1-418d-4a96-bfa0-b70ce2252c62.png)
+![image](https://user-images.githubusercontent.com/40683252/216925706-80409d43-c6b2-4710-b631-2e1acb104bd9.png)
 <br>
