@@ -121,4 +121,6 @@ Referrer-Policy: same-origin
 Cross-Origin-Opener-Policy: same-origin
 ```
 <br>
+
+Endpoints:
 ![endpoints](https://user-images.githubusercontent.com/40683252/217714375-d0423d33-5a05-410b-bf12-284176795f1b.png)
